@@ -1,2 +1,2 @@
 # zelda-clone
- Pygame Legend of Zelda Clone 
+Legend of Zelda Clone in Pygame 
